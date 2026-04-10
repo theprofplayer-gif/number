@@ -103,3 +103,6 @@ GitHub: [https://github.com/your-username](https://github.com/your-username)
 ---
 
 If you want, I can **customize this for your specific project** (just tell me what you're building).
+
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/cebb7714-10e9-42c9-bc68-e410c6cba49c" />
+
